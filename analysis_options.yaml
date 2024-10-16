@@ -1,0 +1,10 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_print: true
+    always_use_package_imports: true
+    avoid_empty_else: true
+    prefer_const_constructors: true
+    avoid_relative_lib_imports: true
+    file_names: true

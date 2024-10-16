@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689503003476",
+    "project_id": "binbear-user",
+    "storage_bucket": "binbear-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689503003476:android:1d3824d9bd1fe4d1531ec1",
+        "android_client_info": {
+          "package_name": "com.jploft.binbear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIzuGxiVMCfA20Bbz4A4RDq-RzoCx4Y60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
